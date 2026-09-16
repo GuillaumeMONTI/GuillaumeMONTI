@@ -4,11 +4,13 @@ Analog IC Design Engineer specializing in Power Management Integrated Circuits (
 
 I work on analog and mixed-signal IC design, with experience in:
 - Bandgap references
+- Temperature Sensors
 - LDO regulators
 - Power-On Reset (POR)
 - Biasing circuits
 - Analog IC layout
 - Transistor-level simulation and characterization
+- Analog Design for Smartcards
 
 ## Open-source Analog IC Projects
 
