@@ -10,12 +10,13 @@ I work on analog and mixed-signal IC design, with experience in:
 - Biasing circuits
 - Analog IC layout
 - Transistor-level simulation and characterization
-- Analog Design for Smartcards
+- Analog IC design for smart-card applications
 
 ## Open-source Analog IC Projects
 
-I use SKY130A, Xschem, ngspice and IIC-OSIC-TOOLS to develop and document
+I use SKY130A, Xschem, ngspice, and IIC-OSIC-TOOLS to develop and document
 open-source analog IC design projects. 
 
-The goal of these projects is to broaden my knowledge in Analog Design and practice 
-designing specific analog blocks I am not currently designing at my job.
+The goal of these projects is to broaden my knowledge of analog IC design and gain 
+practical experience with circuits and architectures I do not currently work on in my 
+current professional role.
