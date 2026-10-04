@@ -20,3 +20,18 @@ open-source analog IC design projects.
 The goal of these projects is to broaden my knowledge of analog IC design and gain 
 practical experience with circuits and architectures I do not currently work on in my 
 current professional role.
+
+## 🗺️ Analog IC Design Roadmap
+
+My portfolio is progressively built from device-level characterization
+toward complete analog and mixed-signal systems.
+
+| Project | Topic | Status |
+|---|---|---|
+| `project_carac_sky130A` | SKY130 device characterization & modeling | ✅ Completed |
+| `project_2stage_OTA` | Two-stage OTA: ideal model → transistor design → layout | 🔧 In progress |
+| `project_ADC` | ADC architectures, ideal models & transistor implementation | 📌 Planned |
+| `project_open_CIS` | CMOS Image Sensor analog signal chain | 📌 Planned |
+| `project_DCDC` | Integrated DC-DC converter fundamentals & design | 📌 Planned |
+
+> The roadmap indicates the intended technical progression of the portfolio, not a fixed release schedule. Projects evolve as new design topics are explored.
